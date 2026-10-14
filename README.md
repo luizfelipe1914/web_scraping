@@ -2,7 +2,7 @@
 
 This repository contains a collection of Python scripts for web scraping scenarios.
 
-1. [The first scenario](./downloader.py) involves downloading various files whose links are contained in the href attribute of an <a> tag:
+1. [The first scenario](./01%20-%20Download%20Files/downloader.py) involves downloading various files whose links are contained in the href attribute of an <a> tag:
 
 ```html
 <!DOCTYPE html>
